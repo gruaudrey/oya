@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --color-oya-terracotta: #D97757;
+  --color-oya-yellow: #ECA835;
+  --color-oya-green-dark: #1E4A38;
+  --color-oya-green-light: #4CAF50;
+}
