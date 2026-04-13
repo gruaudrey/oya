@@ -1,0 +1,1845 @@
+[
+  {
+    "id": 1,
+    "nom": "Chargé·e de projet agroécologie & AU",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Gestion projet",
+      "coordination",
+      "agronomie",
+      "Agroécologie",
+      "systèmes alimentaires",
+      "résilience territoriale"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 2,
+    "nom": "Conseiller·ère technique agroécologie",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Conseil agricole",
+      "diagnostic",
+      "accompagnement",
+      "Transition agroécologique",
+      "réduction intrants"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": [
+      "Collectivités",
+      "bailleurs",
+      "associations",
+      "exploitations"
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Responsable logistique céréales / chef de silo",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Gestion stock",
+      "qualité grain",
+      "logistique",
+      "Souveraineté alimentaire",
+      "stockage stratégique"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5",
+    "secteurs": [
+      "Coopératives",
+      "chambres",
+      "conseils indépendants"
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Chargé·e de parcours volontariat agricole",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Coordination",
+      "pédagogie",
+      "organisation",
+      "Sensibilisation transition",
+      "agriculture durable"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": [
+      "Coopératives grandes cultures",
+      "logistique"
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Ouvrier agricole",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Travail manuel",
+      "entretien cultures",
+      "Pratiques agricoles durables (bases)"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": [
+      "ESS",
+      "EPLEFPA",
+      "collectivités"
+    ]
+  },
+  {
+    "id": 6,
+    "nom": "Maraîcher / maraîcher bio",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Production végétale",
+      "gestion cultures",
+      "Agroécologie",
+      "circuits courts",
+      "biodiversité"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–4",
+    "secteurs": []
+  },
+  {
+    "id": 7,
+    "nom": "Éleveur",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Gestion élevage",
+      "santé animale",
+      "Bien-être animal",
+      "impact carbone"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–4",
+    "secteurs": []
+  },
+  {
+    "id": 8,
+    "nom": "Technicien agricole",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Suivi cultures",
+      "conseil technique",
+      "Optimisation durable",
+      "transition systèmes"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5",
+    "secteurs": []
+  },
+  {
+    "id": 9,
+    "nom": "Technicien agroécologie",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Diagnostic",
+      "expérimentation",
+      "Transition agroécologique",
+      "sols vivants"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5",
+    "secteurs": []
+  },
+  {
+    "id": 10,
+    "nom": "Technicien agriculture de précision",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Data agricole",
+      "outils numériques",
+      "Optimisation intrants",
+      "agriculture durable"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 11,
+    "nom": "Chef de culture",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Planification",
+      "management équipe",
+      "Intégration pratiques durables"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 12,
+    "nom": "Responsable d’exploitation agricole",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Gestion entreprise",
+      "stratégie",
+      "Modèles durables",
+      "circuits courts"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 13,
+    "nom": "Tractoriste / conducteur d’engins",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Conduite engins",
+      "maintenance",
+      "Optimisation ressources (faible niveau)"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 14,
+    "nom": "Agriculteur urbain / fermier urbain",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Production urbaine",
+      "polyvalence",
+      "Agriculture urbaine",
+      "circuits courts",
+      "pédagogie"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–5",
+    "secteurs": []
+  },
+  {
+    "id": 15,
+    "nom": "Animateur agriculture urbaine",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Animation",
+      "pédagogie",
+      "production",
+      "Sensibilisation alimentaire",
+      "écologie"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 16,
+    "nom": "Responsable tiers-lieu agricole",
+    "categorie": "Production agricole",
+    "emoji": "🌱",
+    "competencesTech": [
+      "Gestion site",
+      "animation",
+      "modèle éco",
+      "Systèmes alimentaires locaux",
+      "ESS"
+    ],
+    "softSkills": [
+      "Autonomie",
+      "Résistance physique",
+      "Sens du terrain",
+      "Adaptabilité",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 17,
+    "nom": "Responsable transition durable en IAA (qualité/éco-conception)",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Écoconception",
+      "qualité",
+      "gestion projet",
+      "ACV",
+      "ESG",
+      "réduction impacts",
+      "circularité"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": [
+      "TPE/PME IAA",
+      "ETI",
+      "coopératives"
+    ]
+  },
+  {
+    "id": 18,
+    "nom": "Opérateur de production agroalimentaire",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Production",
+      "hygiène",
+      "sécurité",
+      "Sensibilisation impacts (énergie",
+      "déchets)"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 19,
+    "nom": "Conducteur de ligne",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Pilotage machines",
+      "maintenance",
+      "Optimisation ressources",
+      "réduction pertes"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4",
+    "secteurs": []
+  },
+  {
+    "id": 20,
+    "nom": "Maintenance industrielle agro",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Électromécanique",
+      "maintenance",
+      "Efficacité énergétique",
+      "optimisation équipements"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 21,
+    "nom": "Data analyst agro/agri",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Analyse données",
+      "modélisation",
+      "Traçabilité",
+      "optimisation supply chain durable"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": [
+      "Coopératives",
+      "IAA",
+      "plateformes logistiques"
+    ]
+  },
+  {
+    "id": 22,
+    "nom": "Technicien agroalimentaire",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Procédés",
+      "qualité",
+      "production",
+      "Réduction impacts",
+      "optimisation procédés"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5",
+    "secteurs": []
+  },
+  {
+    "id": 23,
+    "nom": "Responsable qualité / QHSE",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Normes",
+      "HACCP",
+      "gestion risques",
+      "Sécurité alimentaire + durabilité"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–7",
+    "secteurs": []
+  },
+  {
+    "id": 24,
+    "nom": "Responsable production agroalimentaire",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Management",
+      "production",
+      "optimisation",
+      "Décarbonation",
+      "optimisation ressources"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–7",
+    "secteurs": []
+  },
+  {
+    "id": 25,
+    "nom": "Responsable décarbonation site",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Énergie",
+      "stratégie climat",
+      "Bilan carbone",
+      "trajectoires bas carbone"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 26,
+    "nom": "Responsable sécurité alimentaire",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "HACCP",
+      "réglementation",
+      "Lien santé publique / qualité durable"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 27,
+    "nom": "Chargé ACV (analyse cycle de vie)",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Analyse cycle de vie",
+      "écoconception",
+      "Empreinte carbone",
+      "eau",
+      "biodiversité"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 28,
+    "nom": "Ingénieur agroalimentaire",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Procédés",
+      "R&D",
+      "innovation",
+      "Innovation durable",
+      "nouveaux produits"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "4500-7000€",
+    "niveau": "Niveau 7",
+    "secteurs": []
+  },
+  {
+    "id": 29,
+    "nom": "Responsable atelier transformation local",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "Transformation",
+      "gestion atelier",
+      "Circuits courts",
+      "relocalisation",
+      "low-tech"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–6",
+    "secteurs": []
+  },
+  {
+    "id": 30,
+    "nom": "Responsable RSE agroalimentaire",
+    "categorie": "Transformation agroalimentaire & industries",
+    "emoji": "🏭",
+    "competencesTech": [
+      "ESG",
+      "stratégie",
+      "reporting",
+      "CSRD",
+      "chaîne de valeur",
+      "durabilité"
+    ],
+    "softSkills": [
+      "Rigueur",
+      "Travail en équipe",
+      "Sens des responsabilités",
+      "Précision",
+      "Réactivité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 31,
+    "nom": "Chef·fe de projet circuits courts & approvisionnement local",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Gestion projet",
+      "coordination acteurs",
+      "sourcing",
+      "Circuits courts",
+      "relocalisation",
+      "systèmes alimentaires territoriaux"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": [
+      "Collectivités",
+      "centrales d’achat",
+      "coopératives",
+      "plateformes"
+    ]
+  },
+  {
+    "id": 32,
+    "nom": "Logisticien / agent logistique",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Gestion stock",
+      "manutention",
+      "Sensibilisation flux alimentaires"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 33,
+    "nom": "Préparateur de commandes",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Picking",
+      "organisation commandes",
+      "Réduction pertes",
+      "gestion produits frais"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 34,
+    "nom": "Logisticien",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Organisation flux",
+      "transport",
+      "Optimisation flux",
+      "circuits courts"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 35,
+    "nom": "Chauffeur / livreur",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Conduite",
+      "relation client",
+      "Logistique dernier km",
+      "impact carbone"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 36,
+    "nom": "Responsable entrepôt",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Gestion stock",
+      "management équipe",
+      "Optimisation stockage",
+      "réduction pertes"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 37,
+    "nom": "Responsable supply chain",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Pilotage global",
+      "optimisation",
+      "Supply chain durable",
+      "traçabilité"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 38,
+    "nom": "Gestionnaire de flux",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Planification",
+      "optimisation flux",
+      "Réduction gaspillage",
+      "efficacité logistique"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 39,
+    "nom": "Responsable distribution",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Organisation réseau",
+      "stratégie",
+      "Distribution durable",
+      "circuits courts"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 40,
+    "nom": "Responsable logistique circuits courts",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Coordination producteurs",
+      "logistique locale",
+      "Circuits courts",
+      "territorialisation"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 41,
+    "nom": "Chargé logistique bas carbone",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Analyse flux",
+      "optimisation transport",
+      "Décarbonation",
+      "énergie",
+      "transport durable"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": []
+  },
+  {
+    "id": 42,
+    "nom": "Responsable supply chain durable",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "ESG",
+      "stratégie supply chain",
+      "Traçabilité",
+      "décarbonation",
+      "impact global"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 43,
+    "nom": "Coordinateur plateforme alimentaire territoriale",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Coordination",
+      "gestion plateforme",
+      "Systèmes alimentaires locaux",
+      "résilience"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 44,
+    "nom": "Responsable drive fermier",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Gestion plateforme",
+      "relation producteurs",
+      "Circuits courts",
+      "e-commerce alimentaire"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 45,
+    "nom": "Gestionnaire flux alimentaires locaux",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Organisation flux locaux",
+      "Relocalisation alimentaire"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 46,
+    "nom": "Coordinateur circuits courts",
+    "categorie": "Logistique, distribution & circuits courts",
+    "emoji": "🚛",
+    "competencesTech": [
+      "Animation réseau",
+      "coordination",
+      "Circuits courts",
+      "ESS",
+      "territorialisation"
+    ],
+    "softSkills": [
+      "Organisation",
+      "Réactivité",
+      "Gestion des priorités",
+      "Communication",
+      "Fiabilité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 47,
+    "nom": "Responsable / chargé·e de restauration collective durable",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Gestion site",
+      "menus",
+      "achats",
+      "management",
+      "Menus durables",
+      "Egalim",
+      "nutrition",
+      "circuits courts"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": [
+      "Éducation",
+      "santé",
+      "social",
+      "administrations",
+      "entreprises"
+    ]
+  },
+  {
+    "id": 48,
+    "nom": "Responsable achats durables",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Sourcing",
+      "négociation",
+      "gestion fournisseurs",
+      "Approvisionnement local",
+      "bio",
+      "traçabilité"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": []
+  },
+  {
+    "id": 49,
+    "nom": "Responsable anti-gaspillage",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Analyse pertes",
+      "optimisation production",
+      "Réduction gaspillage",
+      "économie circulaire"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–6",
+    "secteurs": []
+  },
+  {
+    "id": 50,
+    "nom": "Cuisinier / chef cuisinier",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Techniques culinaires",
+      "organisation cuisine",
+      "Cuisine durable",
+      "végétalisation",
+      "saisonnalité"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–5",
+    "secteurs": []
+  },
+  {
+    "id": 51,
+    "nom": "Responsable restauration collective",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Gestion site",
+      "management",
+      "budget",
+      "Intégration durable (Egalim",
+      "nutrition)"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 52,
+    "nom": "Aide cuisine",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Préparation",
+      "hygiène",
+      "Sensibilisation anti-gaspillage"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 53,
+    "nom": "Serveur",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Service client",
+      "organisation salle",
+      "Sensibilisation clients (produits durables)"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 54,
+    "nom": "Boulanger",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Fabrication pains",
+      "gestion production",
+      "Produits bio",
+      "circuits courts",
+      "qualité matières"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–4",
+    "secteurs": []
+  },
+  {
+    "id": 55,
+    "nom": "Boucher",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Découpe",
+      "préparation viande",
+      "Bien-être animal",
+      "consommation responsable"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–4",
+    "secteurs": []
+  },
+  {
+    "id": 56,
+    "nom": "Chef de projet alimentation durable",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Gestion projet",
+      "coordination",
+      "Politiques alimentaires",
+      "nutrition",
+      "durabilité"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": []
+  },
+  {
+    "id": 57,
+    "nom": "Artisan des métiers de bouche",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Production artisanale",
+      "gestion activité",
+      "Qualité produit",
+      "local",
+      "durable"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–4",
+    "secteurs": []
+  },
+  {
+    "id": 58,
+    "nom": "Restaurateur engagé",
+    "categorie": "Restauration & métiers de bouche",
+    "emoji": "🍳",
+    "competencesTech": [
+      "Gestion restaurant",
+      "management",
+      "Circuits courts",
+      "bio",
+      "menus durables"
+    ],
+    "softSkills": [
+      "Créativité",
+      "Service client",
+      "Travail sous pression",
+      "Sens du détail",
+      "Passion"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–6",
+    "secteurs": []
+  },
+  {
+    "id": 59,
+    "nom": "Diététicien / nutritionniste",
+    "categorie": "Nutrition, santé & consommation",
+    "emoji": "🥗",
+    "competencesTech": [
+      "Nutrition",
+      "santé publique",
+      "conseil",
+      "Nutrition durable",
+      "régimes bas carbone"
+    ],
+    "softSkills": [
+      "Pédagogie",
+      "Empathie",
+      "Communication",
+      "Écoute active",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 60,
+    "nom": "Conseiller en alimentation durable",
+    "categorie": "Nutrition, santé & consommation",
+    "emoji": "🥗",
+    "competencesTech": [
+      "Conseil",
+      "pédagogie",
+      "animation",
+      "Systèmes alimentaires",
+      "nutrition durable"
+    ],
+    "softSkills": [
+      "Pédagogie",
+      "Empathie",
+      "Communication",
+      "Écoute active",
+      "Curiosité"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 61,
+    "nom": "Chargé de programme nutrition",
+    "categorie": "Nutrition, santé & consommation",
+    "emoji": "🥗",
+    "competencesTech": [
+      "Gestion projet",
+      "santé publique",
+      "Prévention nutrition",
+      "alimentation durable"
+    ],
+    "softSkills": [
+      "Pédagogie",
+      "Empathie",
+      "Communication",
+      "Écoute active",
+      "Curiosité"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": []
+  },
+  {
+    "id": 62,
+    "nom": "Animateur santé / alimentation",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Animation",
+      "pédagogie",
+      "Sensibilisation alimentaire durable"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 63,
+    "nom": "Agent de tri / valorisation biodéchets",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Tri",
+      "manutention",
+      "Gestion biodéchets",
+      "circularité"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3",
+    "secteurs": []
+  },
+  {
+    "id": 64,
+    "nom": "Technicien compostage",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Compostage",
+      "gestion déchets",
+      "Boucles organiques",
+      "fertilité sols"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "1400-1800€",
+    "niveau": "Niveau 3–4",
+    "secteurs": [
+      "Collectivités",
+      "IAA",
+      "GMS",
+      "restauration",
+      "ESS"
+    ]
+  },
+  {
+    "id": 65,
+    "nom": "Coordinateur économie circulaire & anti-gaspi",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Gestion projet",
+      "coordination",
+      "Circularité",
+      "réduction gaspillage"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": []
+  },
+  {
+    "id": 66,
+    "nom": "Chargé de mission économie circulaire",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Analyse",
+      "stratégie déchets",
+      "ACV",
+      "économie circulaire"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": []
+  },
+  {
+    "id": 67,
+    "nom": "Animateur déchets alimentaires",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Animation",
+      "sensibilisation",
+      "Anti-gaspillage",
+      "pédagogie"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4–5",
+    "secteurs": []
+  },
+  {
+    "id": 68,
+    "nom": "Conseiller compostage",
+    "categorie": "Économie circulaire & environnement",
+    "emoji": "♻️",
+    "competencesTech": [
+      "Formation",
+      "accompagnement",
+      "Compostage",
+      "économie circulaire"
+    ],
+    "softSkills": [
+      "Sens de l engagement",
+      "Créativité",
+      "Travail en réseau",
+      "Persévérance",
+      "Vision globale"
+    ],
+    "salaire": "1800-2200€",
+    "niveau": "Niveau 4",
+    "secteurs": []
+  },
+  {
+    "id": 69,
+    "nom": "Responsable RSE / développement durable",
+    "categorie": "Gouvernance, politiques publiques & transition",
+    "emoji": "🏛️",
+    "competencesTech": [
+      "ESG",
+      "stratégie",
+      "reporting",
+      "CSRD",
+      "transition alimentaire"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Vision stratégique",
+      "Diplomatie",
+      "Sens politique"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": [
+      "Collectivités",
+      "EPCI",
+      "agences para-publiques",
+      "associations"
+    ]
+  },
+  {
+    "id": 70,
+    "nom": "Chef·fe de projet Transition alimentaire territoriale (PAT)",
+    "categorie": "Gouvernance, politiques publiques & transition",
+    "emoji": "🏛️",
+    "competencesTech": [
+      "Coordination",
+      "gestion projet",
+      "Systèmes alimentaires territoriaux"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Vision stratégique",
+      "Diplomatie",
+      "Sens politique"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 71,
+    "nom": "Chargé de mission alimentation durable",
+    "categorie": "Gouvernance, politiques publiques & transition",
+    "emoji": "🏛️",
+    "competencesTech": [
+      "Gestion projet",
+      "analyse",
+      "Nutrition + environnement + territoire"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Vision stratégique",
+      "Diplomatie",
+      "Sens politique"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": []
+  },
+  {
+    "id": 72,
+    "nom": "Consultant transition alimentaire",
+    "categorie": "Gouvernance, politiques publiques & transition",
+    "emoji": "🏛️",
+    "competencesTech": [
+      "Conseil",
+      "stratégie",
+      "Vision systémique",
+      "transformation"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Vision stratégique",
+      "Diplomatie",
+      "Sens politique"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 73,
+    "nom": "Responsable politique publique alimentaire",
+    "categorie": "Gouvernance, politiques publiques & transition",
+    "emoji": "🏛️",
+    "competencesTech": [
+      "Pilotage",
+      "stratégie publique",
+      "Régulation systèmes alimentaires"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Communication",
+      "Vision stratégique",
+      "Diplomatie",
+      "Sens politique"
+    ],
+    "salaire": "4500-7000€",
+    "niveau": "Niveau 7",
+    "secteurs": []
+  },
+  {
+    "id": 74,
+    "nom": "Chef de projet territorial",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "Gestion projet",
+      "coordination",
+      "Intégration enjeux alimentaires"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": [
+      "Coopératives",
+      "instituts",
+      "start-ups agri"
+    ]
+  },
+  {
+    "id": 75,
+    "nom": "Chargé·e d’expérimentation / transfert",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "Innovation",
+      "expérimentation",
+      "Diffusion pratiques agroécologiques"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": [
+      "Coopératives",
+      "interprofessions",
+      "collectivités"
+    ]
+  },
+  {
+    "id": 76,
+    "nom": "Community manager / chargé·e com’ & gestion de crise",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "Communication",
+      "digital",
+      "Sensibilisation alimentation durable"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": [
+      "Coopératives",
+      "territoires",
+      "développeurs ENR"
+    ]
+  },
+  {
+    "id": 77,
+    "nom": "Référent·e bas-carbone / énergies (métha/PV)",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "Énergie",
+      "carbone",
+      "projets ENR",
+      "Décarbonation systèmes alimentaires"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6",
+    "secteurs": [
+      "EPLEFPA/CFPPA/CFA"
+    ]
+  },
+  {
+    "id": 78,
+    "nom": "Coordinateur·rice centre FC & apprentissage (EPLEFPA)",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "Ingénierie pédagogique",
+      "gestion",
+      "Formation transition alimentaire"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "2200-2800€",
+    "niveau": "Niveau 5–6",
+    "secteurs": [
+      "Écoles sup. agricoles/véto/paysage"
+    ]
+  },
+  {
+    "id": 79,
+    "nom": "Chef·fe de projet conventions public–privé",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "Partenariats",
+      "négociation",
+      "Hybridation formation / territoire"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  },
+  {
+    "id": 80,
+    "nom": "Responsable RSE",
+    "categorie": "Transversale",
+    "emoji": "🔗",
+    "competencesTech": [
+      "ESG",
+      "stratégie entreprise",
+      "Transition globale systèmes alimentaires"
+    ],
+    "softSkills": [
+      "Polyvalence",
+      "Adaptabilité",
+      "Autonomie",
+      "Initiative",
+      "Communication"
+    ],
+    "salaire": "3000-4000€",
+    "niveau": "Niveau 6–7",
+    "secteurs": []
+  }
+]
