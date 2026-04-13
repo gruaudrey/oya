@@ -1,0 +1,25 @@
+import React from 'react';
+
+export function Logo({ className = "h-8" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 120 60" className={className} fill="none" xmlns="http://www.w3.org/2000/svg">
+      {/* O */}
+      <circle cx="30" cy="35" r="15" fill="#D97757" />
+      <path d="M 20 40 Q 30 30 40 40" stroke="white" strokeWidth="2" fill="none" />
+      <path d="M 22 45 Q 30 35 38 45" stroke="white" strokeWidth="2" fill="none" />
+      
+      {/* Y */}
+      <path d="M 50 20 L 60 35 L 60 50" stroke="#ECA835" strokeWidth="8" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M 70 20 L 60 35" stroke="#ECA835" strokeWidth="8" strokeLinecap="round" strokeLinejoin="round" />
+      
+      {/* a */}
+      <path d="M 85 35 C 85 25 100 25 100 35 L 100 50" stroke="#ECA835" strokeWidth="8" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M 100 40 C 100 50 85 50 85 40 C 85 35 100 35 100 40" stroke="#ECA835" strokeWidth="8" strokeLinecap="round" strokeLinejoin="round" />
+      
+      {/* Leaves */}
+      <path d="M 60 18 C 55 18 55 10 60 10 C 65 10 65 18 60 18 Z" fill="#1E4A38" />
+      <path d="M 58 15 C 50 15 50 8 55 5 C 60 8 60 15 58 15 Z" fill="#4CAF50" />
+      <path d="M 62 15 C 70 15 70 8 65 5 C 60 8 60 15 62 15 Z" fill="#4CAF50" />
+    </svg>
+  );
+}
