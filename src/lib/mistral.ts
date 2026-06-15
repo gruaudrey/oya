@@ -1,7 +1,15 @@
 import type { MatchResult, Profile } from './matching';
 
 const MISTRAL_KEY = import.meta.env.VITE_MISTRAL_KEY;
-const N8N_WEBHOOK = import.meta.env.VITE_N8N_WEBHOOK;
+
+// URL du webhook N8N — utilise la variable d'env si disponible, sinon l'URL de prod directement
+const N8N_WEBHOOK =
+  import.meta.env.VITE_N8N_WEBHOOK ||
+  'https://gruneisenaudrey.app.n8n.cloud/webhook/9e4ddf0e-463e-4858-a3ca-4475a3ce93af';
+
+function getWebhookUrl(): string {
+  return N8N_WEBHOOK;
+}
 
 export async function generateAIExplanations(
   top5: MatchResult[],
@@ -60,10 +68,15 @@ Explique en 2 phrases courtes et encourageantes pourquoi ce profil correspond à
 }
 
 export async function sendToN8N(profile: Profile, top3: MatchResult[]): Promise<void> {
-  if (!N8N_WEBHOOK) return;
+  const webhookUrl = getWebhookUrl();
+  if (!webhookUrl) {
+    console.warn('[Oya] Webhook N8N non configuré, envoi ignoré.');
+    return;
+  }
 
   try {
-    await fetch(N8N_WEBHOOK, {
+    console.log('[Oya] Envoi vers N8N :', webhookUrl);
+    const res = await fetch(webhookUrl, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -80,7 +93,9 @@ export async function sendToN8N(profile: Profile, top3: MatchResult[]): Promise<
         top3: top3[2] ? { nom: top3[2].nom, score: top3[2].score } : null,
       }),
     });
-  } catch {
-    // Non-bloquant
+    console.log('[Oya] Réponse N8N :', res.status, res.statusText);
+  } catch (err) {
+    console.error('[Oya] Erreur envoi N8N :', err);
   }
 }
+
