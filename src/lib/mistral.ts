@@ -76,9 +76,10 @@ export async function sendToN8N(profile: Profile, top3: MatchResult[]): Promise<
 
   try {
     console.log('[Oya] Envoi vers N8N :', webhookUrl);
-    const res = await fetch(webhookUrl, {
+    await fetch(webhookUrl, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'text/plain' },
       body: JSON.stringify({
         email: profile.email,
         consentEmail: profile.consentEmail,
@@ -93,7 +94,7 @@ export async function sendToN8N(profile: Profile, top3: MatchResult[]): Promise<
         top3: top3[2] ? { nom: top3[2].nom, score: top3[2].score } : null,
       }),
     });
-    console.log('[Oya] Réponse N8N :', res.status, res.statusText);
+    console.log('[Oya] Envoi N8N effectué');
   } catch (err) {
     console.error('[Oya] Erreur envoi N8N :', err);
   }
