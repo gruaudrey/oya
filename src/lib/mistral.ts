@@ -5,7 +5,7 @@ const MISTRAL_KEY = import.meta.env.VITE_MISTRAL_KEY;
 // URL du webhook N8N — utilise la variable d'env si disponible, sinon l'URL de prod directement
 const N8N_WEBHOOK =
   import.meta.env.VITE_N8N_WEBHOOK ||
-  'https://meekly-tabulable-merrill.ngrok-free.dev/webhook/9e4ddf0e-463e-4858-a3ca-4475a3ce93af';
+  'https://meekly-tabulable-merrill.ngrok-free.dev/webhook-test/9e4ddf0e-463e-4858-a3ca-4475a3ce93af';
 
 function getWebhookUrl(): string {
   return N8N_WEBHOOK;
